@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 </div>
 
 <div id="header" align="center">
-  <img src="https://media2.giphy.com/media/eUQe4sylGGrbRU5wvj/giphy.gif" 
+  <img src="https://media2.giphy.com/media/eUQe4sylGGrbRU5wvj/200w.webp" 
   width = "100"/>
 </div>
  
