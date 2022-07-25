@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 --> 
-
+ <!-- START_SECTION: activiy-->
 
 - 🔭 I’m currently studying on Optics sciences
 - 🌱 I’m currently learning Git Python R Azure
@@ -43,6 +43,6 @@ Here are some ideas to get you started:
     -item 2
  </details>
  
- <!-- START_SECTION: activiy-->
+
  
 
