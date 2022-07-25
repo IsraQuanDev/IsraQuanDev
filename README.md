@@ -24,3 +24,22 @@ Here are some ideas to get you started:
   width = "100"/>
 </div>
  
+*[] 😸
+ *[x] 🐕
+ 
+ |1|2|
+ |:--|:--|
+ |Row 1a|Row 1b|
+ 
+ My web [link](https://israquandev.github.io/my_launchx_blog/) 🚀
+ 
+ ~Doesn't giving up~
+ 
+ <details>
+ <summary>Click to expand!</summary>
+   ## More great tips! ....
+     
+    -item 1
+    -item 2
+ </details>
+ <img width = "48%" src="![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IsraQuanDev&show_icons=true&theme=radical)5" />
