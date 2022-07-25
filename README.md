@@ -1,6 +1,6 @@
 ## Hi there 👋 🧒
 
- 
+ <!--
 **IsraQuanDev/IsraQuanDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
  
 Here are some ideas to get you started:
@@ -22,5 +22,5 @@ Here are some ideas to get you started:
   <img src="https://media2.giphy.com/media/eUQe4sylGGrbRU5wvj/200w.webp" 
   width = "100"/>
 </div>
- 
+ -->
  
