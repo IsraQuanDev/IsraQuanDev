@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: franciscomh@cio.mx
 - 😄 Pronouns: He / Him
 - ⚡ Fun fact: nose
-- :boom:
+- :boom: 👻 🛰️ 🏀 🕸️
 
 <div id="header" align="center">
   
