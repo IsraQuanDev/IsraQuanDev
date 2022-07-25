@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - :boom: 👻 🛰️ 🏀 🕸️
 
 <div id="header" align="center">
-  
+   <img width = "48%" src="https://github-readme-stats.vercel.app/api?username=IsraQuanDev&show_icons=true&theme=radical" />
   <img src="https://media0.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif?cid=790b76113b50c80b80ec3bc6ffa295059abef0d13b0838a4&rid=giphy.gif&ct=s" width="100"/>
   <img src="https://media2.giphy.com/media/eUQe4sylGGrbRU5wvj/200w.webp" 
   width = "100"/>
@@ -42,4 +42,5 @@ Here are some ideas to get you started:
     -item 1
     -item 2
  </details>
- <img width = "48%" src="![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IsraQuanDev&show_icons=true&theme=radical)5" />
+ 
+
