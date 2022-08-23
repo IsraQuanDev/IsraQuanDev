@@ -23,12 +23,9 @@ Here are some ideas to get you started:
   <img  width = "10%" src="https://media2.giphy.com/media/eUQe4sylGGrbRU5wvj/200w.webp" 
  </div>
  
-  
-<div id="header" align="center">
-   <img   src=" https://github-readme-stats.vercel.app/api?username=IsraQuanDev&show_icons=true&theme=radical](https://github-readme-stats.vercel.app/api/top-langs/?username=IsraQuanDev&layout=compact)" /> 
-</div>
- 
- 
+  <!-- START_SECTION: activity -->
+   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IsraQuanDev&layout=compact) 
+   <!-- END_SECTION: activity -->
  
 *[] 😸
  *[x] 🐕
