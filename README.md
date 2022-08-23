@@ -16,17 +16,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He / Him
 - ⚡ Fun fact: nose
 - :boom: 👻 🛰️ 🏀 🕸️
-
-<!-- START_SECTION: activiy-->
+ 
 <div id="header" align="center">
    <img width = "48%" src="https://github-readme-stats.vercel.app/api?username=IsraQuanDev&show_icons=true&theme=radical" />
-   <img width = "48%" src="https://media0.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif?cid=790b76113b50c80b80ec3bc6ffa295059abef0d13b0838a4&rid=giphy.gif&ct=s" width="100"/>
-  <img  width = "48%" src="https://media2.giphy.com/media/eUQe4sylGGrbRU5wvj/200w.webp" 
+   <img width = "10%" src="https://media0.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif?cid=790b76113b50c80b80ec3bc6ffa295059abef0d13b0838a4&rid=giphy.gif&ct=s"  />
+  <img  width = "10%" src="https://media2.giphy.com/media/eUQe4sylGGrbRU5wvj/200w.webp" 
  </div>
-<!-- END_SECTION: activiy-->
+ 
   
 <div id="header" align="center">
-   <img width = "48%" src=" https://github-readme-stats.vercel.app/api?username=IsraQuanDev&show_icons=true&theme=radical](https://github-readme-stats.vercel.app/api/top-langs/?username=IsraQuanDev&layout=compact)" /> 
+   <img   src=" https://github-readme-stats.vercel.app/api?username=IsraQuanDev&show_icons=true&theme=radical](https://github-readme-stats.vercel.app/api/top-langs/?username=IsraQuanDev&layout=compact)" /> 
 </div>
  
  
