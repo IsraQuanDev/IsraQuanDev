@@ -1,5 +1,5 @@
 ## Hi there 👋 🧒
-
+![GitHub commit activity](https://img.shields.io/github/commit-activity/w/IsraQuanDev/DeepLearning?style=plastic)
  <!--
 **IsraQuanDev/IsraQuanDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
