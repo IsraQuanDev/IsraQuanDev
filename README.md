@@ -13,10 +13,10 @@ Here are some ideas to get you started:
 - 💯 I’m currently studying a Master in Optics sciences
 - 🌱 I’m currently learning:
 * `` Git `` 
-* Python data analysis   
-* Azure 
-* HTML CSS JS CVUE VUEX   
-* NodeJS 
+* `` Python data analysis ``   
+* `` Azure ``
+* `` HTML `` `` CSS `` `` JS ``  `` CVUE``  `` VUEX ``   
+* `` NodeJS ``
 
 - 👯 I’m looking to collaborate on Open source projects
 - 🤔 I’m looking for help with Jobs oportunities
