@@ -1,6 +1,6 @@
 ## Hi there 👋 🧒
 
-My name is Israel, I'm from Mexico and I'm *Physical Engineer*  
+My name is Israel, I'm from Mexico and I'm **Physical Engineer**  
 
 
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/w/IsraQuanDev/DeepLearning?style=plastic)
@@ -10,7 +10,7 @@ My name is Israel, I'm from Mexico and I'm *Physical Engineer*
 Here are some ideas to get you started:
 --> 
  
-- 💯 I’m currently studying a Master in *Optics sciences*
+- 💯 I’m currently studying a Master in **Optics sciences**
 - 🌱 I’m currently learning:
 * `` Git `` 
 * `` Python data analysis ``   
