@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 * `` Azure ``
 * `` HTML `` `` CSS `` `` JS ``  `` CVUE``  `` VUEX ``   
 * `` NodeJS ``
+* `` TensorFlow ``
+
 
 - 👯 I’m looking to collaborate on Open source projects
 - 🤔 I’m looking for help with Jobs oportunities
