@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Israel</h1>
-<h3 align="center">A passionate developer from Mexico</h3>
+<h3 align="center">A passionate in learning web2 and web3 from Mexico</h3>
 
 - 🌱 I’m currently learning: **Blockchain, Backend, DL **
 
