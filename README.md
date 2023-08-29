@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Israel</h1>
-<h3 align="center">A passionate in learning web2 and web3 from Mexico</h3>
+<h1 align="center">Hi 👋, I'm Israel from Mexico</h1>
+<h3 align="center">I'm a data analyst with a passion for uncovering insights from data and transforming them into actionable recommendations. My expertise includes data collection, cleaning, analysis, and visualization.
+ </h3>
 
-- 🌱 I’m currently learning: **Blockchain, Backend, DL **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
