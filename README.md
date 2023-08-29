@@ -12,12 +12,14 @@
 <a href="https://medium.com/@mecillashf2012" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@mecillashf2012" height="30" width="40" /></a>
 </p>
 
-## Skills
+<h3 align="left">## Skills:</h3>
+<p align="left">
 - Data Analysis
 - Data Visualization
 - Python
 - SQL
 - Machine Learning
+</p>
 
 
 <h3 align="left">Languages and Tools:</h3>
