@@ -23,8 +23,10 @@
 
 <h3 align="left">## Projects:</h3>
 <p align="left">
-- [Project 1: Data Analysis](link_to_project_1)
-- [Project 2: Machine Learning](link_to_project_2)
+ Project 1: Data Analysis
+ <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
+Project 2:  Machine Learning
+ <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
