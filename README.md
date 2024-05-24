@@ -22,19 +22,18 @@
 ### 🌟 Proyectos Destacados
 
 1. **[Proyecto A](https://github.com/IsraQuanDev/Skill.3.JAVA.POO_Metaphorce)**
-   - Aplicación de Gestión de Películas
-Esta es una aplicación simple de gestión de películas desarrollada en Java. Permite realizar operaciones básicas como agregar, eliminar y listar películas, así como marcar películas como disponibles o no disponibles.
+- Aplicación de Gestión de Películas
+- Esta es una aplicación simple de gestión de películas desarrollada en Java. Permite realizar operaciones básicas como agregar, eliminar y listar películas, así como marcar películas como disponibles o no disponibles.
  
   
-     1. **[Proyecto A]( https://github.com/IsraQuanDev/API.RESTFULL-CRUD-Java-JPA-Spring-Boot-MySQL-)**
-    - Descripción: Desarrollo de una aplicación backend en Java utilizando Spring Boot para gestionar una base de datos de clientes.
-   - Tecnologías: Java, Spring Boot, MySQL
+2. **[Proyecto A]( https://github.com/IsraQuanDev/API.RESTFULL-CRUD-Java-JPA-Spring-Boot-MySQL-)**
+- Descripción: Desarrollo de una aplicación backend en Java utilizando Spring Boot para gestionar una base de datos de clientes.
+- Tecnologías: Java, Spring Boot, MySQL
 
     
-
 3. **[Proyecto B](https://github.com/IsraQuanDev/Talento.Tech.GTO-DataScience)**
-   - Descripción:   sistema de análisis de datos  
-   - Tecnologías: Python, Pandas, Matplotlib
+- Descripción:   sistema de análisis de datos  
+- Tecnologías: Python, Pandas, Matplotlib
 
 ### 🎓 Formación Adicional
 
