@@ -1,34 +1,109 @@
-<h1 align="center">Hi 👋, I'm Israel from Mexico</h1>
-<h3 align="center">I'm a data analyst with a passion for uncovering insights from data and transforming them into actionable recommendations. My expertise includes data collection, cleaning, analysis, and visualization.
- </h3>
+ Claro, Francisco. Vamos a crear una portada atractiva y profesional para tu perfil de GitHub, enfocada en tu experiencia en desarrollo Java backend. Aquí tienes una idea de cómo puedes estructurar tu README.md para tu perfil de GitHub:
 
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/mesillasisrael" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mesillasisrael" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/israel-mecillas/?locale=en_US" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt=" https://www.linkedin.com/in/israel-mecillas/?locale=en_US" height="30" width="40" /></a> 
-<a href="https://www.facebook.com/franciscoirrael.mesillashernandez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/franciscoirrael.mesillashernandez" height="30" width="40" /></a>
-<a href="https://www.instagram.com/mecillasisrael/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/mecillasisrael/" height="30" width="40" /></a>
-<a href="https://medium.com/@mecillashf2012" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@mecillashf2012" height="30" width="40" /></a>
-</p>
+## 🚀 Francisco Israel Mecillas Hernandez
 
-<h3 align="left">## Skills:</h3>
-<p align="left">
-- Data Analysis
-- Data Visualization
-- Python
-- SQL
-- Machine Learning
-</p>
+👋 ¡Hola! Soy Francisco, un **Ingeniero Físico** con una **Maestría en Ciencias Óptica** y una sólida experiencia en **análisis de datos**. Recientemente, he dirigido mi carrera hacia el **desarrollo backend en Java** con Spring Boot. Actualmente, estoy mejorando mis habilidades a través de cursos y bootcamps en **Metaphorce** y **TALENTO TECH JAVA**.
 
-<h3 align="left">## Projects:</h3>
-<p align="left">
- Project 1: Data Analysis
- <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
-Project 2:  Machine Learning
- <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
-</p>
+### 🛠️ Habilidades Técnicas
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://gohugo.io/" target="_blank" rel="noreferrer"> <img src="https://api.iconify.design/logos-hugo.svg" alt="hugo" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+- **Lenguajes de Programación:** Java, Python, SQL
+- **Frameworks:** Spring Boot, Hibernate
+- **Bases de Datos:** MySQL, PostgreSQL
+- **Herramientas de Desarrollo:** Git, Docker, Maven
+- **Otros:** Análisis de datos, Modelado de sistemas ópticos
+
+### 📚 Educación
+
+- **Maestría en Ciencias Óptica** - [Nombre de la Universidad]
+- **Ingeniería Física** - [Nombre de la Universidad]
+
+### 🌟 Proyectos Destacados
+
+1. **[Proyecto A](#)**
+   - Descripción: Desarrollo de una aplicación backend en Java utilizando Spring Boot para gestionar una base de datos de clientes.
+   - Tecnologías: Java, Spring Boot, MySQL
+
+2. **[Proyecto B](#)**
+   - Descripción: Implementación de un sistema de análisis de datos para optimizar el rendimiento de sistemas ópticos.
+   - Tecnologías: Python, Pandas, Matplotlib
+
+### 🎓 Formación Adicional
+
+- **Bootcamp Java Backend** - Metaphorce
+- **Curso de Desarrollo en Java** - TALENTO TECH JAVA
+
+### 📫 Contacto
+
+- **Email:** [israel.mecillas@gmail.com](mailto:tu.email@example.com)
+- **LinkedIn:** [https://www.linkedin.com/in/israel-mecillas/](https://www.linkedin.com/in/tu-perfil/)
  
+### 🧑‍💻 GitHub Stats
+
+![Tus estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=tu-usuario-github&show_icons=true&theme=radical)
+
+### 🌐 Visita mi [Sitio Web](#)
+
+---
+
+Para incorporar emoticonos y dar un toque más visual, puedes usar los siguientes:
+
+- 🚀 para destacar tu nombre y tu introducción.
+- 🛠️ para las habilidades técnicas.
+- 📚 para la educación.
+- 🌟 para los proyectos.
+- 🎓 para la formación adicional.
+- 📫 para el contacto.
+- 🧑‍💻 para las estadísticas de GitHub.
+- 🌐 para tu sitio web.
+
+Asegúrate de personalizar los enlaces y la información según sea necesario. Aquí tienes un ejemplo con tu usuario ficticio "tu-usuario-github":
+
+```markdown
+## 🚀 Francisco Israel Mecillas Hernandez
+
+👋 ¡Hola! Soy Francisco, un **Ingeniero Físico** con una **Maestría en Ciencias Óptica** y una sólida experiencia en **análisis de datos**. Recientemente, he dirigido mi carrera hacia el **desarrollo backend en Java** con Spring Boot. Actualmente, estoy mejorando mis habilidades a través de cursos y bootcamps en **Metaphorce** y **TALENTO TECH JAVA**.
+
+### 🛠️ Habilidades Técnicas
+
+- **Lenguajes de Programación:** Java, Python, SQL
+- **Frameworks:** Spring Boot, Hibernate
+- **Bases de Datos:** MySQL, PostgreSQL
+- **Herramientas de Desarrollo:** Git, Docker, Maven
+- **Otros:** Análisis de datos, Modelado de sistemas ópticos
+
+### 📚 Educación
+
+- **Maestría en Ciencias Óptica** - [Nombre de la Universidad]
+- **Ingeniería Física** - [Nombre de la Universidad]
+
+### 🌟 Proyectos Destacados
+
+1. **[Proyecto A](#)**
+   - Descripción: Desarrollo de una aplicación backend en Java utilizando Spring Boot para gestionar una base de datos de clientes.
+   - Tecnologías: Java, Spring Boot, MySQL
+
+2. **[Proyecto B](#)**
+   - Descripción: Implementación de un sistema de análisis de datos para optimizar el rendimiento de sistemas ópticos.
+   - Tecnologías: Python, Pandas, Matplotlib
+
+### 🎓 Formación Adicional
+
+- **Bootcamp Java Backend** - Metaphorce
+- **Curso de Desarrollo en Java** - TALENTO TECH JAVA
+
+### 📫 Contacto
+
+- **Email:** [tu.email@example.com](mailto:tu.email@example.com)
+- **LinkedIn:** [tu-perfil-linkedin](https://www.linkedin.com/in/tu-perfil/)
+- **Twitter:** [@tu_usuario](https://twitter.com/tu_usuario)
+
+### 🧑‍💻 GitHub Stats
+
+![Tus estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=tu-usuario-github&show_icons=true&theme=radical)
+
+### 🌐 Visita mi [Sitio Web](#)
+```
+
+Este diseño hará que tu perfil de GitHub sea más atractivo y profesional, destacando tu experiencia y habilidades en desarrollo backend con Java.
