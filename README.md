@@ -31,5 +31,3 @@ Soy un Ingeniero Físico con una Maestría en Ciencias Ópticas y una sólida ex
 - **Email:** [israel.mecillas@gmail.com](mailto:israel.mecillas@gmail.com)
 - **LinkedIn:** [linkedin.com/in/israel-mecillas](https://www.linkedin.com/in/israel-mecillas/)
 
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&theme=dark) 
