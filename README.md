@@ -1,7 +1,7 @@
  # 🚀 Francisco Israel Mecillas Hernández
 
 ## 👨‍💻 Sobre Mí
-Soy un Ingeniero Físico con una Maestría en Ciencias Ópticas y una sólida experiencia en desarrollo backend, especializado en Java y tecnologías asociadas. Apasionado por la programación, la arquitectura de software y la optimización de procesos, siempre estoy en busca de nuevos retos y oportunidades para mejorar mis habilidades.
+Soy un Ingeniero Físico con una sólida experiencia en desarrollo backend, especializado en Java y tecnologías asociadas. Apasionado por la programación, la arquitectura de software y la optimización de procesos, siempre estoy en busca de nuevos retos y oportunidades para mejorar mis habilidades.
 
 ## 🛠️ Tecnologías y Herramientas
 
